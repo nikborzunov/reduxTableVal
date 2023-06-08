@@ -1,0 +1,38 @@
+
+.profileChangeForm {
+    display: flex;
+    flex-direction: row;
+}
+.profileChangeForm input {
+    margin-right: 3px;
+}
+
+.profileChangeForm_Item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.profileChangeForm_Item div{
+    display: grid;
+    align-items: center;
+}
+
+.postStatusBtn{
+    width: 25px;
+    height: 25px;
+    padding: 3px;
+    margin-right: 5px;
+}
+
+.tableBtnAdd{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1rem;
+}
+
+.postStatusBtn button{
+    height: 100%;
+    width: 25px;
+}

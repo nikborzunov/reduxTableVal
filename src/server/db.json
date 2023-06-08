@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "Login": "Pedrissio666",
+      "Email": "Pedrissio666@gmail.com",
+      "Country": "Spain",
+      "Sex": "male",
+      "Age": 29
+    },
+    {
+      "id": 3,
+      "Login": "Pamela@nderson",
+      "Email": "Pamela@gmail.com",
+      "Country": "USA",
+      "Sex": "female",
+      "Age": 65
+    },
+    {
+      "id": 4,
+      "Login": "Oppa@gangamStyle",
+      "Email": "gangamStyle@gmail.com",
+      "Country": "China",
+      "Sex": "male",
+      "Age": 47
+    },
+    {
+      "Login": "Pamela@nderson",
+      "Email": "Pamela@gmail.com",
+      "Country": "USA",
+      "Sex": "female",
+      "Age": 65,
+      "id": 5
+    },
+    {
+      "Login": "Vasya",
+      "Email": "Vasya@gmail.com",
+      "Country": "",
+      "Sex": "",
+      "Age": "",
+      "id": 6
+    },
+    {
+      "Login": "Vasya",
+      "Email": "Vasya@gmail.com",
+      "Country": "",
+      "Sex": "",
+      "Age": "",
+      "id": 7
+    },
+    {
+      "Login": "Vovchik",
+      "Email": "Vovchik@gmail.com",
+      "Country": "",
+      "Sex": "",
+      "Age": "",
+      "id": 8
+    }
+  ]
+}
